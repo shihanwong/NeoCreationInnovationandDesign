@@ -34,11 +34,15 @@ As such, our team have devised an mobile application to be able to achieve the f
 ## Short description of our project
 
 ### What's the problem?
-**Quote statistics here** From our research, we found that _% of accidents happened when elderly are at home alone.
+**Quote statistics here** From our research, we found that 67.9% of accidents happened when elderly are at home. Most of the injuries occur at home and falling is the commonest cause. Injuries in the elderly is a significant problem and therefore The Detector 2.0 plays an important role in addressing the problem.
 
 ### How can technology help?
 
 ### The idea
+- Methods of Detection
+- Alerting Functionality
+- Habit Analysis
+- Method of Habit Data Storage
 
 ## Our introduction video
 
