@@ -34,9 +34,10 @@ As such, our team have devised an mobile application to be able to achieve the f
 ## Short description of our project
 
 ### What's the problem?
-From our research, we found that 67.9% of accidents happened when elderly are at home. Most of the injuries occur at home and falling is the commonest cause. Furthermore, the proportion of older adults living alone has been increasing since 2000. Between 2000 and 2015, the percentage of Singaporeans 65 years and older living alone grew from 6.6% to 8.9 %. 83000 elderly will be living alone by 2030. The number of calls involving the elderly (aged 65 and above) remained the highest among all age categories, at 43.8%. This highlights the pressing need to have a system to be able to monitor the elderly and vulnerable through the use of technology to be able alert their family members or authorities should there be an emergency and to mobilise CFRs in a timely and effective manner for quick intervention
+From our research, we found that *67.9%* of accidents happened when elderly are at home. Most of the injuries occur at home and falling is the commonest cause. Furthermore, the proportion of older adults living alone has been increasing since 2000. Between 2000 and 2015, the percentage of Singaporeans 65 years and older living alone grew from *6.6% to 8.9 %*. *83000* elderly will be living alone by 2030. The number of calls involving the elderly (aged 65 and above) remained the highest among all age categories, at *43.8%*. This highlights the pressing need to have a system to be able to monitor the elderly and vulnerable through the use of technology to be able alert their family members or authorities should there be an emergency and to mobilise CFRs in a timely and effective manner for quick intervention
 
 ### How can technology help?
+Technology is an enabler to be able to create an ecosystem
 
 ### The idea
 
