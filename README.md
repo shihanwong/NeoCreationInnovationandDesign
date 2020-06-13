@@ -12,6 +12,7 @@ This question requires us to focus on three key aspects:
 1. Solution has to take into account the elderly and the vulnerable. In this case, they will be our target audience
 2. Solution has to utilise analytic technology to be able to more aware of incidents that happen, and to allow the authorities to be alerted to such incidents early should there be a need to escalate the problem
 3. Solution should aim to be able to mobolise CFRs quickly to provide quick intervention to our target audience
+
 As such, our team have devised an mobile application to be able to achieve the following aims. Find out more below
 
 ## Content Page
