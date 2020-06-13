@@ -32,6 +32,7 @@ Hi, we are Team NeoCreation Innovation and Design or NCID for short. We are a 3 
 ## The architecture of our solution
 
 ## Long description
+[Click here to find out more](Long Description.md)
 
 ## Our project roadmap
 
