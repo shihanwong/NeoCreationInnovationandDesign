@@ -34,7 +34,7 @@ As such, our team have devised an mobile application to be able to achieve the f
 ## Short description of our project
 
 ### What's the problem?
-**Quote statistics here** From our research, we found that _% of accidents happened when elderly are at home alone.
+**Quote statistics here** From our research, we found that 67.9% of accidents happened to elderly at home. Most of the injuries occur at home and falling is the commonest cause. Many of the injuries are potentially preventable with the development of our App.
 
 ### How can technology help?
 
