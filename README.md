@@ -37,9 +37,12 @@ As such, our team have devised an mobile application to be able to achieve the f
 From our research, we found that *67.9%* of accidents happened when elderly are at home. Most of the injuries occur at home and falling is the commonest cause. Furthermore, the proportion of older adults living alone has been increasing since 2000. Between 2000 and 2015, the percentage of Singaporeans 65 years and older living alone grew from *6.6% to 8.9 %*. *83000* elderly will be living alone by 2030. The number of calls involving the elderly (aged 65 and above) remained the highest among all age categories, at *43.8%*. This highlights the pressing need to have a system to be able to monitor the elderly and vulnerable through the use of technology to be able alert their family members or authorities should there be an emergency and to mobilise CFRs in a timely and effective manner for quick intervention
 
 ### How can technology help?
-Smart technology is able to be used to monitor the elderly and vulnerable. Using the suite of sensors (e.g. light, sound, cameras, etc) from various devices located around the house, it is able to be able to create an ecosystem to detect the behaviour and habits of our target audience. Using smart analytics, we are able to harness the information to derive models to predict the user's schedule. Subsequently, this can be used to detect anomalities, which could signify the user getting into an incident, in the day to day life of the users and trigger an alert to family members or the authorities. Where that, CFRs can be mobolised quickly for quick intervention  
+Smart technolgy is an integral part of our everyday lives. From our smartphones to our televisions, they are equipped with a suite of sensors able to detect and monitor the surrounding. These pieces of information can be pieced together to create a picture that may be able to narrate the personal lives of users
 
 ### The idea
+Humans are highly habitual in nature. Smart technology is able to be used to monitor the elderly and vulnerable. Using the suite of sensors (e.g. light, sound, cameras, etc) from various devices located around the house, it is able to be able to create an ecosystem to detect the behaviour and habits of our target audience. 
+
+Using smart analytics, we are able to harness the information to derive models to predict the user's schedule. Subsequently, this can be used to detect anomalities in the day to day life of the users, which could signify the user getting into an incident. Subsequently, this could be used to trigger an alert to family members or the authorities. With that, CFRs can be mobolised quickly for quick intervention  
 
 ## Our introduction video
 
