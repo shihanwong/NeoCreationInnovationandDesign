@@ -42,7 +42,7 @@ Smart technolgy is an integral part of our everyday lives. From our smartphones 
 ### The idea
 Humans are highly habitual in nature. Smart technology is able to be used to monitor the elderly and vulnerable. Using the suite of sensors (e.g. light, sound, cameras, etc) from various devices located around the house, it is able to be able to create an ecosystem to detect the behaviour and habits of our target audience. 
 
-Using smart analytics, we are able to harness the information to derive models to predict the user's schedule. Subsequently, this can be used to detect anomalities in the day to day life of the users, which could signify the user getting into an incident. Subsequently, this could be used to trigger an alert to family members or the authorities. With that, CFRs can be mobolised quickly for quick intervention  
+Using smart analytics, we are able to harness the information to derive models to predict the user's schedule. Subsequently, this can be used to detect anomalities in the day to day life of the users, which could signify the user getting into an incident. This could then be used to trigger an alert to family members or the authorities. With that, CFRs can be mobolised quickly for quick intervention 
 
 ## Our introduction video
 
